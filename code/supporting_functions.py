@@ -147,5 +147,3 @@ def create_output_images(Rover):
 
       return encoded_string1, encoded_string2
 
-
-
